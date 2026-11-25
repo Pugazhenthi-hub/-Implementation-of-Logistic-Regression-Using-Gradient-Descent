@@ -22,7 +22,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: Pugazhenthi S
-RegisterNumber: 212224040120
+RegisterNumber: 212224240120
 */
 ``
 import pandas as pd
